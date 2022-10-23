@@ -1,0 +1,8 @@
+oie professor, eu desenvolvi essa atividade do jeito mais criativo
+e diferente que consegui imaginar, porém não consegui utilizar 
+o método set e get de um jeito legal, então preferi fazer o 
+primeiro script de forma tradicional. Já o segundo eu fiz os
+métodos todos englobados por uma função, só faltou eu fazer uma 
+repetição pro programa sempre perguntar se a pessoa desejava 
+continuar.... talvez eu melhore ele no futuro, tô muito enferrujada
+em javascript xD
